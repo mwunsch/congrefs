@@ -2,7 +2,7 @@
 
 Congrefs is a little JavaScript function that sprinkles the long S (ſ) throughout your text. It looks like an *f*. But it's not. It is an *S*.
 
-Learn more about the long S here: http://en.wikipedia.org/wiki/Long_s
+Learn more about the long S on [Wikipedia](http://en.wikipedia.org/wiki/Long_s)
 
 ## Usage:
 
